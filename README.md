@@ -200,4 +200,4 @@ If you have any questions, suggestions, or need assistance, please open an issue
 
 ---
 
-Created by [Timothy J. Baek](https://github.com/tjbck) - Let's make Nexus AI even more amazing together! 💪
+Created by [Dawood Touseef](https://github.com/DawoodTouseef) - Let's make Nexus AI even more amazing together! 💪
