@@ -1,4 +1,4 @@
-# Nexus AI (Formerly Ollama WebUI) 👋
+# Nexus AI (Clone of Open Webui)  👋
 
 ![GitHub stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/open-webui/open-webui?style=social)
